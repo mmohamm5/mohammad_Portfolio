@@ -1,2 +1,2 @@
-# trainwithshubhamtech.github.io
+#.github.io
 
